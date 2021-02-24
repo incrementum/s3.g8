@@ -1,3 +1,3 @@
 package $package01$
 
-@main def main = println("main")
+@main def mainMethod = println("main")
