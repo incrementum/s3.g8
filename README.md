@@ -1,6 +1,6 @@
 # s3.g8
 
-Mill-based scala3 project template. Includes a package, main method and a starter worksheet under the ```src``` directory.
+Mill-based scala3 project template. Includes a starter package, main method and worksheet under the ```src``` directory.
 
 #### Usage in VS Code
 
