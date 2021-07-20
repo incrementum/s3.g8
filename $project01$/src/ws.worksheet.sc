@@ -1,5 +1,5 @@
 "scala worksheet"
 
-import $package01$.$MainClass$
+import $package01$.$mainClass$
 
 $mainClass$.name
