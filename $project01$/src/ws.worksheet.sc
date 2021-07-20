@@ -2,4 +2,4 @@
 
 import $package01$.$MainClass$
 
-$MainClass$.name
+$mainClass$.name
