@@ -2,5 +2,5 @@ package $package01$
 
 @main def mainMethod = println("main")
 
-object Main:
+object $MainClass$:
   val name = "main"
