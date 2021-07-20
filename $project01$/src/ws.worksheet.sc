@@ -1,5 +1,5 @@
 "scala worksheet"
 
-import $package01$.M
+import $package01$.Main
 
-M.name = "worksheet"
+M.name
