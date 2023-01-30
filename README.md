@@ -9,4 +9,4 @@ In a new empty folder:
 
 In the `Select the template to use` dropdown menu:
 
-&nbsp;&nbsp;&nbsp;Choose `Custom...` and enter `https://github.com/incrementum/s3.g8.git`
+&nbsp;&nbsp;&nbsp;Choose `Custom...` and enter ```https://github.com/incrementum/s3.g8.git```
